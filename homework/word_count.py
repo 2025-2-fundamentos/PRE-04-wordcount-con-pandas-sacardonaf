@@ -8,6 +8,7 @@ def run_job(input_directory, output_directory):
     """Job"""
 
 
+#test
 if __name__ == "__main__":
 
     run_job(
